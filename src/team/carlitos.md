@@ -1,6 +1,6 @@
 ---
 title: Carlitos
 bio: This is me yo
-thumbnail: /img/grumpycat.png
+thumbnail: /images/uploads/bsptrpfbn90.jpg
 ---
 
