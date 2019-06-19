@@ -1,6 +1,7 @@
 ---
 layout: music
 title: The Boogie LA Promo Mix Vol. 2
+author: Austin Boogie Crew
 date: 2019-06-19T16:58:10.357Z
 tags:
   - Funk
